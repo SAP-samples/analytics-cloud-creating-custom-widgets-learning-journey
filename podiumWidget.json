@@ -1,0 +1,67 @@
+{
+    "name": "WinnerPodium",
+    "description": "A Winners Podium ",
+    "newInstancePrefix": "podium",
+    "eula": "",
+    "vendor": "SAP Learning",
+    "license": "",
+    "id": "podium",
+    "version": "1.3.1",
+    "webcomponents": [
+        {
+            "kind": "main",
+            "tag": "podium-widget",
+            "url": "/podiumWidget.js",
+            "integrity": "",
+            "ignoreIntegrity": true
+        },
+        {
+            "kind": "styling",
+            "tag": "com-sap-sample-podium-styling",
+            "url": "/style-panel.js",
+            "integrity": "",
+            "ignoreIntegrity": true
+        }
+    ],
+    "properties": {
+        "width": {
+            "type": "integer",
+            "default": 710
+        },
+        "height": {
+            "type": "integer",
+            "default": 460
+        },
+        "bold_forValues": {
+            "type":"string",
+            "default": "400"
+        },
+        "bold_forNames": {
+            "type":"string",
+            "default": "400"
+        }
+    },
+    "methods": {
+		
+    },
+    "events": {
+		
+    },
+    
+    "dataBindings": {
+        "myDataBinding": {
+            "feeds": [
+                {
+                    "id": "dimensions",
+                    "description": "Dimensions",
+                    "type": "dimension"
+                },
+                {
+                    "id": "measures",
+                    "description": "Measures",
+                    "type": "mainStructureMember"
+                }
+            ]
+        }
+    }
+}
