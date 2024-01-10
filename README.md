@@ -1,7 +1,7 @@
 
 
 
-# # Welcome to the Learning Journey "Creating a custom-widget  Learning journey"
+#  Welcome to the Learning Journey "Creating a custom-widget  Learning journey"
 
 
 <!--- Register repository https://api.reuse.software/register, then add REUSE badge:
