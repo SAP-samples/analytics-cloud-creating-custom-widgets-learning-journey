@@ -1,31 +1,23 @@
-# SAP-samples/repository-template
-This default template for SAP Samples repositories includes files for README, LICENSE, and .reuse/dep5. All repositories on github.com/SAP-samples will be created based on this template.
 
-# Containing Files
 
-1. The LICENSE file:
-In most cases, the license for SAP sample projects is `Apache 2.0`.
 
-2. The .reuse/dep5 file: 
-The [Reuse Tool](https://reuse.software/) must be used for your samples project. You can find the .reuse/dep5 in the project initial. Please replace the parts inside the single angle quotation marks < > by the specific information for your repository.
+# # Welcome to the Learning Journey "Creating a custom-widget  Learning journey"
 
-3. The README.md file (this file):
-Please edit this file as it is the primary description file for your project. You can find some placeholder titles for sections below.
-
-# [Title]
-Creating a custom-widget 
 
 <!--- Register repository https://api.reuse.software/register, then add REUSE badge:
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
 -->
 
 ## Description
+Welcome to this repository for the learning journey "Creating a custom-widget" published on [SAP Learning](https://learning.sap.com). 
+
 This learning journey will enable you to understand the need for custom widgets and demonstrate how to create them for SAP Analytics Cloud stories.
 
 ## Requirements
-
+You should have an account for the SAP Analytics Cloud 
 ## Download and Installation
 
+We recommend to follow the instructions in the learning journey Creating a custom-widget on https://learning.sap.com
 ## Known Issues
 No known issues
 
