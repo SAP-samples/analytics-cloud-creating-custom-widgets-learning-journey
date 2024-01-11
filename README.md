@@ -10,7 +10,7 @@
 -->
 
 ## Description
-Welcome to this repository for the learning journey "Creating a custom-widget" published on [SAP Learning](https://learning.sap.com). 
+Welcome to this repository for the learning journey "Creating a custom-widget" published on [SAP Learning]([https://learning.sap.com](https://learning.sap.com/learning-journeys/creating-custom-widgets-for-sap-analytics-cloud-stories)). 
 
 This learning journey will enable you to understand the need for custom widgets and demonstrate how to create them for SAP Analytics Cloud stories.
 
