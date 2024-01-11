@@ -1,7 +1,7 @@
 
 
 
-#  Welcome to the Learning Journey "Creating a custom-widget  Learning journey"
+#  Welcome to the Repo "Creating a custom-widget"
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/analytics-cloud-creating-custom-widgets-learning-journey)](https://api.reuse.software/info/github.com/SAP-samples/analytics-cloud-creating-custom-widgets-learning-journey)
 
